@@ -1,0 +1,20 @@
+:root {
+    --weight400: 400;
+    --weight400: 700;
+    --font-family: "Roboto", sans-serif;
+    --main-size: 17px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 992px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
